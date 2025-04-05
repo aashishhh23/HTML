@@ -1,0 +1,28 @@
+div tag - division tag, generic tag, text /image /link, block element []
+day-4
+div annd span are same but span is an inline element
+Semantic Tag:- (Meaningful tag) : ex- table tag, form tag, Section tag, article, aside , figure , figcaption , header, footer , main , nav
+
+
+1) Section Tag= define section in your document 
+2) Article= independent text
+3) header=web doc ka introductory part,only provide semantics.
+Difference b/w header and h1 tag amd when will it use? Ans=“HTML header” is the code section between the <header> element on a web page.
+
+It’s a container for introductory content like navigation, logo, author information, and heading details.
+
+In other words, it’s a container that can include your heading tags (amongst other things).
+
+
+
+4) can we use header tag in any footer tag? can we use multiple header tag in any footer tag?
+
+
+
+
+
+
+5) navigation= only contain links ie contain links inside it
+
+
+6) aside= bhut sare contents in the form of side., info that is directly related to surrounding content
